@@ -35,8 +35,7 @@
                 <div class="mastfoot">
                     <div class="inner">
                         <p>
-                            <i class="glyphicon glyphicon-briefcase"></i> <a href="https://github.com/yceruto">Projects</a>
-                            <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:yceruto@abalt.org">Contact</a>
+                            <a href="https://github.com/yceruto">Projects</a> | <a href="mailto:yceruto@abalt.org">Contact</a>
                         </p>
                     </div>
                 </div>
