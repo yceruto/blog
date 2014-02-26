@@ -30,16 +30,13 @@
                     <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
                     <p class="lead">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
-                    <p class="lead">
-                        <a class="btn btn-lg btn-default" href="#">Learn more</a>
-                    </p>
                 </div>
 
                 <div class="mastfoot">
                     <div class="inner">
                         <p>
-                            <a href="https://github.com/yceruto"><i class="glyphicon glyphicon-briefcase"></i> Projects</a> |
-                            <a href="mailto:yceruto@abalt.org"><i class="glyphicon glyphicon-envelope"></i> Contact</a>
+                            <i class="glyphicon glyphicon-briefcase"></i> <a href="https://github.com/yceruto">Projects</a>
+                            <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:yceruto@abalt.org">Contact</a>
                         </p>
                     </div>
                 </div>
