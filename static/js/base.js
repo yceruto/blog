@@ -21,17 +21,18 @@
     }
 }());
 
-//Init bootstrap tooltip
-function InitTooltip() {
-    $('a[data-toggle="tooltip"], button[data-toggle="tooltip"], th[data-toggle="tooltip"], td[data-toggle="tooltip"], input[data-toggle="tooltip"], li[data-toggle="tooltip"]').each(function(){
-        $(this).tooltip({
-            container: 'body'
-        });
+function lang() {
+    var $this = $(this),
+        showLang = $this.text().toLowerCase(),
+        hideLang = showLang == 'es' ? 'en' : 'es';
+
+    $('.'+hideLang).fadeOut('slow', function(){
+        $('.'+showLang).fadeIn('slow');
     });
 }
 
 !function ($) {
-    
+    $('.lang').click(lang);
 }(window.jQuery);
 
 // Place any jQuery/helper plugins in here.

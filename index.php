@@ -11,6 +11,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="static/css/cover.css">
+    <link rel="stylesheet" href="static/css/base.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -29,13 +30,18 @@
                 <div class="inner cover">
                     <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
-                    <p class="lead">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
+                    <p class="lead en">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
+                    <p class="lead es" style="display: none">Durante años he desarrollado habilidades tanto técnicas como de gestión en desarrollo de Software. He realizado análisis, diseño y desarrollo de proyectos, así como tareas propias de la gestión de la I+D+i. Me destaco por la versatilidad, la capacidad de aprendizaje y la motivación por el trabajo bien hecho.</p>
                 </div>
 
-                <div class="mastfoot">
+                <div class="footer">
                     <div class="inner">
-                        <p>
+                        <div class="pull-right"><a class="lang" href="#">EN</a> | <a class="lang" href="#">ES</a></div>
+                        <p class="en">
                             <a href="https://github.com/yceruto">Projects</a> | <a href="mailto:yceruto@abalt.org">Contact</a>
+                        </p>
+                        <p class="es" style="display: none">
+                            <a href="https://github.com/yceruto">Proyectos</a> | <a href="mailto:yceruto@abalt.org">Contacto</a>
                         </p>
                     </div>
                 </div>
@@ -51,8 +57,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript">
-
-    </script>
+    <script src="static/js/base.js"></script>
 </body>
 </html>
