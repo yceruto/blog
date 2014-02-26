@@ -41,9 +41,9 @@
                 <div class="inner cover">
                     <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
-                    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+                    <p class="lead">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
                     <p class="lead">
-                        <a class="btn btn-lg btn-default" href="#">Learn more</a>
+                        <a class="btn btn-lg btn-default" href="#">Leer más</a>
                     </p>
                 </div>
 
@@ -63,5 +63,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+    </script>
 </body>
 </html>
