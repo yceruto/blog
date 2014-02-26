@@ -43,7 +43,7 @@
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
                     <p class="lead">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
                     <p class="lead">
-                        <a class="btn btn-lg btn-default" href="#">Leer más</a>
+                        <a class="btn btn-lg btn-default" href="#">Learn more</a>
                     </p>
                 </div>
 
