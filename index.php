@@ -39,9 +39,7 @@
                 </div>
 
                 <div class="inner cover">
-                    <a href="#" class="thumbnail">
-                        <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=120" alt="Gravatar"/>
-                    </a>
+                    <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
                     <p class="lead">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
                     <p class="lead">
