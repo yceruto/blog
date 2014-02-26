@@ -41,7 +41,6 @@
                             <a href="https://github.com/yceruto"><i class="glyphicon glyphicon-briefcase"></i> Projects</a> |
                             <a href="mailto:yceruto@abalt.org"><i class="glyphicon glyphicon-envelope"></i> Contact</a>
                         </p>
-                        <p>&copy; 2014</p>
                     </div>
                 </div>
 
