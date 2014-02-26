@@ -26,18 +26,6 @@
 
             <div class="cover-container">
 
-                <div class="masthead clearfix">
-                    <div class="inner">
-                        <h3 class="masthead-brand">Yonel Ceruto Glez.</h3>
-                        <ul class="nav masthead-nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Projects</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-
                 <div class="inner cover">
                     <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
