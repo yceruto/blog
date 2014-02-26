@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="inner cover">
-                    <img src="http://www.gravatar.com/<?php echo md5("yceruto@abalt.org"); ?>" alt="Gravatar"/>
+                    <img src="http://www.gravatar.com/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
                     <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
                     <p class="lead">
