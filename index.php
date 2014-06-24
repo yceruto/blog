@@ -28,7 +28,7 @@
             <div class="cover-container">
 
                 <div class="inner cover">
-                    <img src="http://www.gravatar.com/avatar/<?php echo md5("yceruto@abalt.org"); ?>?s=200" alt="Gravatar"/>
+                    <img src="http://www.gravatar.com/avatar/<?php echo md5("yonelceruto@gmail.com"); ?>?s=200" alt="Gravatar"/>
                     <h1 class="cover-heading">Yonel Ceruto Glez.</h1>
                     <p class="lead en">For over years I have developed skills in both technical and management in software development. I have performed analysis, design and development of projects as well as specific to the management of R & D tasks. I underlined the versatility, learning ability and motivation for work well done.</p>
                     <p class="lead es" style="display: none">Durante años he desarrollado habilidades tanto técnicas como de gestión en desarrollo de Software. He realizado análisis, diseño y desarrollo de proyectos, así como tareas propias de la gestión de la I+D+i. Me destaco por la versatilidad, la capacidad de aprendizaje y la motivación por el trabajo bien hecho.</p>
