@@ -38,10 +38,10 @@
                     <div class="inner">
                         <div class="pull-right"><a class="lang" href="#">EN</a> | <a class="lang" href="#">ES</a></div>
                         <p class="en">
-                            <a href="https://github.com/yceruto">Projects</a> | <a href="mailto:yceruto@abalt.org">Contact</a>
+                            <a href="https://github.com/yceruto">Projects</a> | <a href="mailto:yonelceruto@gmail.com">Contact</a>
                         </p>
                         <p class="es" style="display: none">
-                            <a href="https://github.com/yceruto">Proyectos</a> | <a href="mailto:yceruto@abalt.org">Contacto</a>
+                            <a href="https://github.com/yceruto">Proyectos</a> | <a href="mailto:yonelceruto@gmail.com">Contacto</a>
                         </p>
                     </div>
                 </div>
